@@ -15,7 +15,7 @@ Usage:
 
             https://www.twilio.com/
 
-     2. open terminal and export twilio credtial as command varialbe
+     2. open terminal and export twilio credtial as a command varialbe
 
         type
 
@@ -29,13 +29,6 @@ Usage:
              javac FacebookAuthomation.java Sms.java
 
              java FacebookAuthomation youre_email youre_password
-
-Author:
-
-    fasil minale
-
-    fasiladam1290@gmail.com
-    ate/9774/08
 
 
 enjoy!!!
